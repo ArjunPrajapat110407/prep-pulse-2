@@ -1,0 +1,33 @@
+{
+  "name": "Prep Pulse — NEET 2026",
+  "short_name": "PrepPulse",
+  "description": "NEET 2026 Study Tracker — Chapters, Timer, Mocks, Notes",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06080f",
+  "theme_color": "#3b82f6",
+  "lang": "hi-IN",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
